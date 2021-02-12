@@ -17,3 +17,11 @@ Siren Beeps
 ELS Beeps
 Indicators
 All instructions for install and use are included in the readme file included with the download :)
+
+
+Controls
+Q=Lights
+L=lights
+K=Rear Red Lights (Basically For Traffic Stops)
+L-ALT=Sirens
+R=Change Tone
